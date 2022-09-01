@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: 1st September, 2022 (Web Development)
+##### (Started Today)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Watched some lectures on Udemy today and later, made notes from devdocs.io and w3schools.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It was a very lousy start to be honest but, will certainly improve and try to spend more time learning.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** N/A
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
