@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Login
 
 ### Day 0: 1st September, 2022 (Web Development)
 ##### (Started Today)
