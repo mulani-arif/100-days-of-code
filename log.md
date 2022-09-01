@@ -2,6 +2,7 @@
 
 ### Day 0: 1st September, 2022 (Web Development)
 ##### (Started Today)
+**Today's Topic**: Introduction to HTML.
 
 **Today's Progress**: Watched lectures of Angela Yu on Udemy and later, read notes from devdocs.io and MDN web docs. Made some notes as per Instructor's guide
 
