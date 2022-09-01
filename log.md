@@ -3,8 +3,8 @@
 ### Day 0: 1st September, 2022 (Web Development)
 ##### (Started Today)
 
-**Today's Progress**: Watched some lectures on Udemy today and later, made notes from devdocs.io and w3schools.
+**Today's Progress**: Watched lectures of Angela Yu on Udemy today and later, read notes from devdocs.io and MDN web docs. Made some notes as per Instructor's guide
 
-**Thoughts:** It was a very lousy start to be honest but, will certainly improve and try to spend more time learning.
+**Thoughts:** It was a good start in Web Development. Learned something new apart from daily problem solving.
 
 **Link to work:** N/A
