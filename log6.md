@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 5: 6th September, 2022 (Web Development)
+### Day 5: 7th September, 2022 (Web Development)
 
 **Today's Topic**: N/A.
 
