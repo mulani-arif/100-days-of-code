@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 6: 8th September, 2022 (Web Development)
+### Day 7: 8th September, 2022 (Web Development)
 
 **Today's Topic**: Wireframing.
 
