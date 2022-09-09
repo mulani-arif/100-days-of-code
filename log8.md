@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 7: 9th September, 2022 (Web Development)
+### Day 8: 9th September, 2022 (Web Development)
 
 **Today's Topic**: Introduction to Bootstrap.
 
